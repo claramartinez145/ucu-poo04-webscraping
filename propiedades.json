@@ -1,0 +1,138 @@
+{
+    "ciudades": [
+        {
+            "nombre": "Montevideo",
+            "propiedades": [
+                {
+                    "precio": 98000,
+                    "tamano": 134,
+                    "habitaciones": 2,
+                    "link": "https://www.infocasas.com.uy/casa-en-venta-2-dormitorios-c-cochera-en-sayago-no-acepta-banco/194180730"
+                },
+                {
+                    "precio": 1290000,
+                    "tamano": 342,
+                    "habitaciones": 4,
+                    "link": "https://www.infocasas.com.uy/venta-casa-4-dormitorios-en-carrasco/194212370"
+                },
+                {
+                    "precio": 185000,
+                    "tamano": 154,
+                    "habitaciones": 4,
+                    "link": "https://www.infocasas.com.uy/casablanca-casa-padron-unico-en-prado-norte-amplitud-porte-y-gran-terreno/194140991"
+                },
+                {
+                    "precio": 475000,
+                    "tamano": 202,
+                    "habitaciones": 5,
+                    "link": "https://www.infocasas.com.uy/casa-en-venta-en-pocitos/194188559"
+                },
+                {
+                    "precio": 238000,
+                    "tamano": 102,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/venta-casa-ph-3-dormitorios-1-baño-con-parrillero-y-garaje-carrasco/193925266"
+                },
+                {
+                    "precio": 266000,
+                    "tamano": 164,
+                    "habitaciones": 2,
+                    "link": "https://www.infocasas.com.uy/casablanca-casa-padron-unico-con-amplio-fondo-y-parrillero-excelente-estado/193949485"
+                },
+                {
+                    "precio": 395000,
+                    "tamano": 202,
+                    "habitaciones": 4,
+                    "link": "https://www.infocasas.com.uy/casa-en-venta-o-alquiler-4-dormitorios-en-carrasco-norte-con-jardin/193125226"
+                },
+                {
+                    "precio": 2200000,
+                    "tamano": 480,
+                    "habitaciones": 5,
+                    "link": "https://www.infocasas.com.uy/espectacular-residencia-en-venta-y-alquiler-en-carrasco/193213981"
+                },
+                {
+                    "precio": 140000,
+                    "tamano": 110,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-de-altos-en-reducto-con-estufa-a-leña-y-parrillero/193162446"
+                },
+                {
+                    "precio": 420000,
+                    "tamano": 60,
+                    "habitaciones": 2,
+                    "link": "https://www.infocasas.com.uy/casa-venta-carrasco-sur-1-planta-480-m2-terreno/194210351"
+                }
+            ]
+        },
+        {
+            "nombre": "Ciudad de la Costa",
+            "propiedades": []
+        },
+        {
+            "nombre": "Colonia del Sacramento",
+            "propiedades": [
+                {
+                    "precio": 650000,
+                    "tamano": 623,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-barrio-pueblo-nuevo-colonis/193612765"
+                },
+                {
+                    "precio": 96500,
+                    "tamano": 80,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/rentada-residencia-ecologica-de-lujo-en-riachuelo-alto-totalmente-equipada-confort-diseño-y-exclusividad-con-3-dormitorios-y-2-baños/192595191"
+                },
+                {
+                    "precio": 155000,
+                    "tamano": 90,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/venta-de-casa-de-3-dormitorios-con-patio-en-colonia-del-sacramento-a-estrenar/193906264"
+                },
+                {
+                    "precio": 295000,
+                    "tamano": 175,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/casa-centrica-de-3-dormitorios-en-colonia-reciclada-y-en-excelente-estado/193541412"
+                },
+                {
+                    "precio": 82000,
+                    "tamano": 37,
+                    "habitaciones": 2,
+                    "link": "https://www.infocasas.com.uy/casa-de-2-dormitorios-en-altos-de-san-carlos-ideal-para-renta/193943806"
+                },
+                {
+                    "precio": 350000,
+                    "tamano": 280,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/espectacular-casa-con-vistas-al-rio-de-la-plata-en-venta-colonia-del-sacramento/193708239"
+                },
+                {
+                    "precio": 670000,
+                    "tamano": 50,
+                    "habitaciones": 1,
+                    "link": "https://www.infocasas.com.uy/majestuosa-residencia-portuguesa-del-siglo-xviii-un-legado-historico-con-encanto-inigualable/193676910"
+                },
+                {
+                    "precio": 290000,
+                    "tamano": 112,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/casa-centricacolonia-de-3-dormitorios-con-vista-al-rio/192644874"
+                },
+                {
+                    "precio": 269000,
+                    "tamano": 100,
+                    "habitaciones": 3,
+                    "link": "https://www.infocasas.com.uy/venta-casa-en-colonia-del-sacramento-3-dormitorios-2-baños-cochera-patio-a-estrenar/193122040"
+                },
+                {
+                    "precio": 35000,
+                    "tamano": 300,
+                    "habitaciones": null,
+                    "link": "https://www.infocasas.com.uy/casa-en-los-algodonesel-general/193564695"
+                }
+            ]
+        }
+    ]
+}
